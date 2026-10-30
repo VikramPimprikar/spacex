@@ -1,0 +1,8 @@
+node_modules/
+.env
+**/.env
+dist/
+backend/syncspace.db
+backend/syncspace.db-shm
+backend/syncspace.db-wal
+backend/logs/
